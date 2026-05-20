@@ -1,0 +1,19 @@
+# Входные данные
+data/transactions.csv
+data/gold_set.csv
+data/categories.json
+
+# БД
+*.db
+*.sqlite
+
+# Окружения
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
